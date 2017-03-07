@@ -1,6 +1,6 @@
 name := """example-app"""
 
-version := "2.0-SNAPSHOT"
+version := "2.1-SNAPSHOT"
 
 lazy val root = (project in file(".")).enablePlugins(PlayJava)
 
